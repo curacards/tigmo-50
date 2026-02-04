@@ -1,0 +1,267 @@
+/* Generated CSS - Variables */
+:root {
+  --color-1: #212529;
+  --color-2: #efefef;
+  --color-3: #000f9f;
+  --color-4: #02119f;
+  --color-5: #ffffff;
+  --spacing-1: 0px 19px;
+  --spacing-2: 19px;
+  --spacing-3: 10px 0px 32px;
+  --spacing-4: 10px;
+  --spacing-5: 32px;
+  --spacing-6: 0px 0px 8px;
+  --spacing-7: 8px;
+  --spacing-8: 0px 0px 6px;
+  --spacing-9: 6px;
+  --spacing-10: 0px 0px 5px;
+  --spacing-11: 5px;
+  --spacing-12: 0px 0px 15px;
+  --spacing-13: 15px;
+  --spacing-14: 4px 12px;
+  --spacing-15: 4px;
+  --spacing-16: 12px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  grid-template-columns: none;
+  grid-template-rows: none;
+  width: 1280px;
+  max-width: none;
+  min-width: 0px;
+  height: 800px;
+  max-height: none;
+  min-height: 800px;
+  color: var(--color-1);
+  background-color: var(--color-2);
+  border-color: var(--color-1);
+  font-family: "Open Sans", sans-serif;
+  line-height: 24px;
+  text-align: left;
+  position: relative;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  overflow: hidden scroll;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+
+h1 {
+  margin: var(--spacing-6);
+  margin-bottom: var(--spacing-7);
+  padding: var(--spacing-8);
+  padding-bottom: var(--spacing-9);
+  width: 1206px;
+  height: 30px;
+  min-height: 0px;
+  color: var(--color-3);
+  border-color: var(--color-3);
+  font-family: Graphik-Semibold;
+  font-size: 20px;
+  overflow-x: visible;
+  overflow-y: visible;
+  opacity: 0.845126;
+}
+
+h3 {
+  margin: var(--spacing-6);
+  margin-bottom: var(--spacing-7);
+  width: 600px;
+  height: 45px;
+  min-height: 0px;
+  color: var(--color-3);
+  border-color: var(--color-3);
+  font-family: Graphik-Light;
+  font-size: 45px;
+  line-height: 45px;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+h5 {
+  margin: var(--spacing-10);
+  margin-bottom: var(--spacing-11);
+  width: 1206px;
+  height: 25.1875px;
+  min-height: 0px;
+  color: var(--color-4);
+  border-color: var(--color-4);
+  font-family: Graphik-Semibold;
+  font-size: 21px;
+  line-height: 25.2px;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+p {
+  margin: var(--spacing-12);
+  margin-bottom: var(--spacing-13);
+  width: 550px;
+  height: 135px;
+  min-height: 0px;
+  color: var(--color-3);
+  border-color: var(--color-3);
+  font-family: Graphik-Light;
+  font-size: 20px;
+  line-height: 27px;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+a {
+  width: 160px;
+  height: 61.9219px;
+  min-height: 0px;
+  color: var(--color-3);
+  border-color: var(--color-3);
+  text-decoration: underline;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+button {
+  display: none;
+  padding: var(--spacing-14);
+  padding-top: var(--spacing-15);
+  padding-right: var(--spacing-16);
+  padding-bottom: var(--spacing-15);
+  padding-left: var(--spacing-16);
+  width: auto;
+  height: auto;
+  min-height: 0px;
+  color: var(--color-5);
+  border-color: var(--color-5);
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  border-radius: var(--spacing-15);
+  border-width: 1px;
+  border-style: solid;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+span {
+  display: inline-block;
+  width: 30px;
+  height: 30px;
+  min-height: 0px;
+  color: var(--color-5);
+  border-color: var(--color-5);
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+li {
+  width: 832px;
+  min-width: auto;
+  height: 68px;
+  min-height: auto;
+  color: var(--color-3);
+  border-color: var(--color-3);
+  font-family: Graphik-Light;
+  font-size: 20px;
+  line-height: 20px;
+  text-align: center;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+  opacity: 0;
+}
+
+#masthead {
+  height: 85.9219px;
+  min-height: 0px;
+  position: fixed;
+  bottom: 714.078px;
+  z-index: 3;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+.navbar {
+  justify-content: flex-start;
+  align-items: center;
+  padding: var(--spacing-1);
+  padding-right: var(--spacing-2);
+  padding-left: var(--spacing-2);
+  height: 85.9219px;
+  min-height: 0px;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+#text-2 {
+  width: 591px;
+  height: 161px;
+  min-height: 0px;
+  top: auto;
+  right: auto;
+  bottom: auto;
+  left: auto;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+#colophon {
+  padding: var(--spacing-3);
+  padding-top: var(--spacing-4);
+  padding-bottom: var(--spacing-5);
+  height: 369.188px;
+  min-height: 0px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 20px 25px -12px;
+  overflow: hidden;
+  overflow-y: hidden;
+}
+
+#masthead:nth-of-type(1) {
+  height: 85.9219px;
+  min-height: 0px;
+  position: fixed;
+  bottom: 714.078px;
+  z-index: 3;
+  overflow-x: visible;
+  overflow-y: visible;
+}
+
+#colophon:nth-of-type(1) {
+  padding: var(--spacing-3);
+  padding-top: var(--spacing-4);
+  padding-bottom: var(--spacing-5);
+  height: 369.188px;
+  min-height: 0px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 20px 25px -12px;
+  overflow: hidden;
+  overflow-y: hidden;
+}
+
